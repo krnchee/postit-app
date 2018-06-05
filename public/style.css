@@ -1,0 +1,31 @@
+textarea {
+    width: 400px;
+}
+
+center {
+  width: 200px;
+  background-color: rgb(53, 72, 142)
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+postit {
+  background-color: green;
+}
+
+ul{
+  overflow:hidden;
+  padding:3em;
+  background-color: :rgb(221, 244, 40);
+
+}
+
+ li{
+  margin:1em;
+  background-color: :rgb(221, 244, 40);
+  height:10em;
+  width:10em;
+  padding:1em;
+  float:left;
+}
